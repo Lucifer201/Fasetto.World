@@ -1,0 +1,59 @@
+
+[2020-05-17 08:05:47]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+
+[2020-05-17 08:05:52]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+
+[2020-05-17 08:06:58]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-05-17 08:07:03]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 12:56:08]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 12:56:18]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 12:56:50]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 12:56:58]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 12:57:05]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 01:16:50]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 01:16:59]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 01:17:53]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 01:17:59]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 01:20:20]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 01:20:26]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 01:36:13]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 01:36:20]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 01:36:24]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 01:41:38]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 01:41:42]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 02:23:08]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 02:23:18]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 02:23:54]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 02:24:09]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 02:24:37]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 02:24:44]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 02:42:23]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 02:42:33]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 02:47:26]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 02:47:30]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 02:52:36]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 02:52:45]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 01:11:59]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 01:12:09]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 02:48:28]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 02:48:34]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]
+[2020-06-03 02:50:21]Application is starting...[App.xaml.cs > OnStartup() > Line 25]
+[2020-06-03 02:50:26]An unexpected error occurred running a IoC.Task.Run. Value cannot be null.
+Parameter name: oops[App.xaml.cs > OnStartup() > Line 27]

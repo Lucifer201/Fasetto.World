@@ -1,0 +1,7 @@
+C:\Users\天寒红叶稀\source\repos\Fasetto.World\ConsoleApp1test\bin\Debug\ConsoleApp1test.exe.config
+C:\Users\天寒红叶稀\source\repos\Fasetto.World\ConsoleApp1test\bin\Debug\ConsoleApp1test.exe
+C:\Users\天寒红叶稀\source\repos\Fasetto.World\ConsoleApp1test\bin\Debug\ConsoleApp1test.pdb
+C:\Users\天寒红叶稀\source\repos\Fasetto.World\ConsoleApp1test\obj\Debug\ConsoleApp1test.csproj.CoreCompileInputs.cache
+C:\Users\天寒红叶稀\source\repos\Fasetto.World\ConsoleApp1test\obj\Debug\ConsoleApp1test.exe
+C:\Users\天寒红叶稀\source\repos\Fasetto.World\ConsoleApp1test\obj\Debug\ConsoleApp1test.pdb
+C:\Users\天寒红叶稀\source\repos\Fasetto.World\ConsoleApp1test\obj\Debug\ConsoleApp1test.csprojAssemblyReference.cache
