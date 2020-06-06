@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using System.Windows.Controls;
 using System.Windows.Media.Animation;
+using Fasetto.World.Core;
 
 namespace Fasetto.World
 {
@@ -193,7 +194,7 @@ namespace Fasetto.World
             element.Unloaded += (s, e) => unloaded = true;
 
             //Run a loop of the caller thread
-            Task.Run(async () =>
+            IoC.Task.Run(async () =>
             {
                 //While the element is still available, recheck the size
                 //after every loop in case the container was resized

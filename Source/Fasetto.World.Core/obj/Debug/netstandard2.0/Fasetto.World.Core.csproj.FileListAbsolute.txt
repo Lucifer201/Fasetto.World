@@ -7,3 +7,12 @@ C:\Users\天寒红叶稀\source\repos\Fasetto.World\Fasetto.World.Core\obj\Debug
 C:\Users\天寒红叶稀\source\repos\Fasetto.World\Fasetto.World.Core\obj\Debug\netstandard2.0\Fasetto.World.Core.AssemblyInfo.cs
 C:\Users\天寒红叶稀\source\repos\Fasetto.World\Fasetto.World.Core\obj\Debug\netstandard2.0\Fasetto.World.Core.dll
 C:\Users\天寒红叶稀\source\repos\Fasetto.World\Fasetto.World.Core\obj\Debug\netstandard2.0\Fasetto.World.Core.pdb
+C:\git\Fasetto.World\Source\Fasetto.World.Core\bin\Debug\netstandard2.0\Fasetto.World.Core.deps.json
+C:\git\Fasetto.World\Source\Fasetto.World.Core\bin\Debug\netstandard2.0\Fasetto.World.Core.dll
+C:\git\Fasetto.World\Source\Fasetto.World.Core\bin\Debug\netstandard2.0\Fasetto.World.Core.pdb
+C:\git\Fasetto.World\Source\Fasetto.World.Core\obj\Debug\netstandard2.0\Fasetto.World.Core.csprojAssemblyReference.cache
+C:\git\Fasetto.World\Source\Fasetto.World.Core\obj\Debug\netstandard2.0\Fasetto.World.Core.csproj.CoreCompileInputs.cache
+C:\git\Fasetto.World\Source\Fasetto.World.Core\obj\Debug\netstandard2.0\Fasetto.World.Core.AssemblyInfoInputs.cache
+C:\git\Fasetto.World\Source\Fasetto.World.Core\obj\Debug\netstandard2.0\Fasetto.World.Core.AssemblyInfo.cs
+C:\git\Fasetto.World\Source\Fasetto.World.Core\obj\Debug\netstandard2.0\Fasetto.World.Core.dll
+C:\git\Fasetto.World\Source\Fasetto.World.Core\obj\Debug\netstandard2.0\Fasetto.World.Core.pdb

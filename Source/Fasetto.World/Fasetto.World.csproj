@@ -126,12 +126,12 @@
     <Compile Include="Controls\SideMenuControl.xaml.cs">
       <DependentUpon>SideMenuControl.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Dialogs\BaseDialogUserControl.cs" />
+    <Compile Include="Dialogs\Base\BaseDialogUserControl.cs" />
     <Compile Include="Dialogs\DialogMessageBox.xaml.cs">
       <DependentUpon>DialogMessageBox.xaml</DependentUpon>
     </Compile>
     <Compile Include="IoC\UIManager.cs" />
-    <Compile Include="DialogWindow.xaml.cs">
+    <Compile Include="Dialogs\Base\DialogWindow.xaml.cs">
       <DependentUpon>DialogWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\BasePage.cs" />
@@ -212,7 +212,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="DialogWindow.xaml">
+    <Page Include="Dialogs\Base\DialogWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>

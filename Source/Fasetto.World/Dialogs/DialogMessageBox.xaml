@@ -1,23 +1,23 @@
-﻿<local:BaseDialogUserControl x:Class="Fasetto.World.DialogMessageBox"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
-             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:Fasetto.World"
-             xmlns:core="clr-namespace:Fasetto.World.Core;assembly=Fasetto.World.Core"
-             mc:Ignorable="d" 
-             >
+﻿<local:BaseDialogUserControl
+    x:Class="Fasetto.World.DialogMessageBox"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:core="clr-namespace:Fasetto.World.Core;assembly=Fasetto.World.Core"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Fasetto.World"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
     <StackPanel d:DataContext="{x:Static core:MessageBoxDialogDesignModel.Instance}" Background="{StaticResource ForegroundLightBrush}">
-        <TextBlock Text="{Binding Message}"
-                   Padding="5"
-                   Foreground="{StaticResource ForegroundDarkBrush}"
-                   />
-        <Button Content="{Binding OkText}"
-                IsDefault="True"
-                IsCancel="True"
-                FontSize="{StaticResource FontSizeRegular}"
-                HorizontalAlignment="Center"
-                Command="{Binding CloseCommand,RelativeSource={RelativeSource Mode=FindAncestor,AncestorType={x:Type local:BaseDialogUserControl}}}"
-                />
+        <TextBlock
+            Padding="5"
+            Foreground="{StaticResource ForegroundDarkBrush}"
+            Text="{Binding Message}" />
+        <Button
+            HorizontalAlignment="Center"
+            Command="{Binding CloseCommand, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type local:BaseDialogUserControl}}}"
+            Content="{Binding OkText}"
+            FontSize="{StaticResource FontSizeRegular}"
+            IsCancel="True"
+            IsDefault="True" />
     </StackPanel>
 </local:BaseDialogUserControl>

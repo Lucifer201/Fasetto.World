@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\天寒红叶稀\source\repos\Fasetto.World\Fasetto.World\obj\Debug\
+C:\git\Fasetto.World\Source\Fasetto.World\obj\Debug\
 Fasetto.World
 none
 false
 DEBUG;TRACE
-C:\Users\天寒红叶稀\source\repos\Fasetto.World\Fasetto.World\App.xaml
-22-605504707
+C:\git\Fasetto.World\Source\Fasetto.World\App.xaml
+22-199701315
 
-59-2070223442
-231609046019
-Controls\BubbleContentControl.xaml;Controls\Chat\ChatMessage\ChatMessageListItemControl.xaml;Controls\Chat\ChatMessage\ChatMessageListControl.xaml;Controls\Chat\ChatList\ChatListControl.xaml;Controls\Chat\ChatList\ChatListItemControl.xaml;Controls\Input\PasswordEntryControl.xaml;Controls\Input\TextEntryControl.xaml;Controls\Menu\VerticalMenu.xaml;Controls\PageHost.xaml;Controls\SettingControl.xaml;Controls\SideMenuControl.xaml;Dialogs\DialogMessageBox.xaml;DialogWindow.xaml;Pages\ChatPage.xaml;Pages\RegisterPage.xaml;Pages\LoginPage.xaml;MainWindow.xaml;Styles\Buttons.xaml;Styles\Scroll.xaml;Styles\Colors.xaml;Styles\Texts.xaml;Styles\Fonts.xaml;
+59-489779958
+23-1439123745
+Controls\BubbleContentControl.xaml;Controls\Chat\ChatMessage\ChatMessageListItemControl.xaml;Controls\Chat\ChatMessage\ChatMessageListControl.xaml;Controls\Chat\ChatList\ChatListControl.xaml;Controls\Chat\ChatList\ChatListItemControl.xaml;Controls\Input\PasswordEntryControl.xaml;Controls\Input\TextEntryControl.xaml;Controls\Menu\VerticalMenu.xaml;Controls\PageHost.xaml;Controls\SettingControl.xaml;Controls\SideMenuControl.xaml;Dialogs\DialogMessageBox.xaml;Dialogs\Base\DialogWindow.xaml;Pages\ChatPage.xaml;Pages\RegisterPage.xaml;Pages\LoginPage.xaml;MainWindow.xaml;Styles\Buttons.xaml;Styles\Scroll.xaml;Styles\Colors.xaml;Styles\Texts.xaml;Styles\Fonts.xaml;
 
 False
 
